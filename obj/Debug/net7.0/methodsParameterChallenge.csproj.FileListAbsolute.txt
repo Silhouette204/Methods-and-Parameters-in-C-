@@ -1,0 +1,14 @@
+D:\C# Projects\methodsParameterChallenge\bin\Debug\net7.0\methodsParameterChallenge.exe
+D:\C# Projects\methodsParameterChallenge\bin\Debug\net7.0\methodsParameterChallenge.deps.json
+D:\C# Projects\methodsParameterChallenge\bin\Debug\net7.0\methodsParameterChallenge.runtimeconfig.json
+D:\C# Projects\methodsParameterChallenge\bin\Debug\net7.0\methodsParameterChallenge.dll
+D:\C# Projects\methodsParameterChallenge\bin\Debug\net7.0\methodsParameterChallenge.pdb
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.AssemblyInfoInputs.cache
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.AssemblyInfo.cs
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.csproj.CoreCompileInputs.cache
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.dll
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\refint\methodsParameterChallenge.dll
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.pdb
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\methodsParameterChallenge.genruntimeconfig.cache
+D:\C# Projects\methodsParameterChallenge\obj\Debug\net7.0\ref\methodsParameterChallenge.dll
